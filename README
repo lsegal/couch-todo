@@ -1,0 +1,22 @@
+h1. Couch TODO
+
+Written by Loren Segal in 2008. License is "steal-me".
+
+h2. INSTALL
+
+Put the index file in any directory in the couch www folder.
+
+This page was written to run from the @/usr/local/share/couch/www@ 
+directory, so you might want to as well. It uses the jquery support 
+files as well as the stylesheet from the CouchDB utils apps, so if
+you don't house the file there you'll need to copy the image, style,
+and script directories from there.
+
+h2. RUN
+
+Start your couchdb server with @couchdb@, and navigate to (if you
+put the file in the @todo@ subdirectory):
+
+  http://localhost:5984/_utils/todo
+
+It works? Yay!
