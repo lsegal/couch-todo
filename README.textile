@@ -1,7 +1,7 @@
 h1. Couch TODO
 
 Written by Loren Segal in 2008. License is "steal-me".
-
+h2.Do Everything at Your hand 
 h2. INSTALL
 
 Put the index file in any directory in the couch www folder. I 
